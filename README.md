@@ -2,13 +2,16 @@
 
 > **Read-only archive of released versions of s9e/flarum-ext-mediaembed.** Not for installation: use [Packagist](https://packagist.org/packages/s9e/flarum-ext-mediaembed) or the [upstream repository](https://github.com/s9e/flarum-ext-mediaembed).
 
-**0** versions archived · Latest: [`1.0.0`](https://github.com/flarchive/s9e-flarum-ext-mediaembed/tree/archive/v1.0.0) · License: `MIT` · Flarum: `^0.1.0-beta.8`
+**4** versions archived · Latest: [`1.0.0`](https://github.com/flarchive/s9e-flarum-ext-mediaembed/tree/archive/v1.0.0) · License: `MIT` · Flarum: `^0.1.0-beta.8`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.3.0` | 2015-11-04 | `^0.1.0-beta.3` | [Browse](https://github.com/flarchive/s9e-flarum-ext-mediaembed/tree/archive/v0.3.0) |
+| `0.3.1` | 2015-11-04 | `^0.1.0-beta.3` | [Browse](https://github.com/flarchive/s9e-flarum-ext-mediaembed/tree/archive/v0.3.1) |
+| `0.3.2` | 2015-12-04 | `^0.1.0-beta.3` | [Browse](https://github.com/flarchive/s9e-flarum-ext-mediaembed/tree/archive/v0.3.2) |
+| `1.0.0` | 2017-12-27 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/s9e-flarum-ext-mediaembed/tree/archive/v1.0.0) |
 
 Catalog entry: [packages/s9e-flarum-ext-mediaembed.json](https://github.com/flarchive/archive-index/blob/main/packages/s9e-flarum-ext-mediaembed.json)
 
